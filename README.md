@@ -2,3 +2,7 @@
 
 This is a simple reading file.
 Added some new lines
+
+## Heading 2
+Just something to fill the space
+New txt for new branch
